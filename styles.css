@@ -1,0 +1,49 @@
+html {
+    background: black;
+}
+
+/* hero background image */
+.bgimage {
+    height:95vh;
+    background: url('images/Fordelsnøglen.jpg');
+    background-size:cover;
+    position:relative;
+    opacity: 95%;
+}
+
+/* text css above hero image */
+.hero_title {
+    font-size: 6rem;
+    font-family: 'Hubballi', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.hero_desc {
+    font-size: 3rem;
+    font-family: 'Hubballi', cursive;
+}
+
+.box {
+    top: 100%;
+    color: white;
+}
+
+/* social media icons styling */
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+
+.fa-twitter:hover, .fa-facebook:hover, .fa-linkedin:hover {
+    color: #008000;
+}
+
+.fab {
+    color: #000000;
+}
+
+/* footer styling */
+#footer {
+    background-color: #808080;
+    text-align: center;
+}
