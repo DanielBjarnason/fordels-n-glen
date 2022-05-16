@@ -4,7 +4,7 @@ html {
 
 /* hero background image */
 .bgimage {
-    height:95vh;
+    height:100vh;
     background: url('images/Fordelsnøglen.jpg');
     background-size:cover;
     position:relative;
@@ -30,8 +30,9 @@ html {
 
 /* social media icons styling */
 .social-icons {
-    font-size: 36px;
+    font-size: 50px;
     cursor: pointer;
+    margin-top:43rem;
 }
 
 .fa-twitter:hover, .fa-facebook:hover, .fa-linkedin:hover {
@@ -39,11 +40,11 @@ html {
 }
 
 .fab {
-    color: #000000;
+    color: #fffbfb;
 }
 
-/* footer styling */
+/* footer styling 
 #footer {
-    background-color: #808080;
+    
     text-align: center;
-}
+} */
