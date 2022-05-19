@@ -81,6 +81,7 @@ p, ul {
 .hero_desc {
     font-size: 2rem;
     font-family: 'Merriweather', serif;
+    filter: drop-shadow(0 0.2rem 0.25rem rgb(0, 0, 0));
 }
 
 /* social media icons styling */
