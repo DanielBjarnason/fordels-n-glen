@@ -40,7 +40,7 @@
 
 /* text css above hero image */
 .hero_title {
-    font-size: 7rem;
+    font-size: 6rem;
     font-family: 'Bebas Neue', cursive;
     filter: drop-shadow(0 0.2rem 0.25rem rgb(0, 0, 0));
 }
